@@ -22,4 +22,4 @@ CI / CD Strategy: Software focus
 # License:
 Refer LICENSE and LICENSE-CODE in repository at https://github.com/quintesNZ/strategies-cicd
 
-end.
+Copyright (C) 2018 Quintes van Aswegen 
